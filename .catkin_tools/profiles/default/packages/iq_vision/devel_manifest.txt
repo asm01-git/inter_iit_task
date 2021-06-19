@@ -1,0 +1,22 @@
+main_pkg
+/home/asm01/inter_iit_task/devel/.private/iq_vision/cmake.lock /home/asm01/inter_iit_task/devel/./cmake.lock
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/roseus/ros/iq_vision/manifest.l /home/asm01/inter_iit_task/devel/share/roseus/ros/iq_vision/manifest.l
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/roseus/ros/iq_vision/msg/Coords.l /home/asm01/inter_iit_task/devel/share/roseus/ros/iq_vision/msg/Coords.l
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/common-lisp/ros/iq_vision/msg/_package_Coords.lisp /home/asm01/inter_iit_task/devel/share/common-lisp/ros/iq_vision/msg/_package_Coords.lisp
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/common-lisp/ros/iq_vision/msg/Coords.lisp /home/asm01/inter_iit_task/devel/share/common-lisp/ros/iq_vision/msg/Coords.lisp
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/common-lisp/ros/iq_vision/msg/_package.lisp /home/asm01/inter_iit_task/devel/share/common-lisp/ros/iq_vision/msg/_package.lisp
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/common-lisp/ros/iq_vision/msg/iq_vision-msg.asd /home/asm01/inter_iit_task/devel/share/common-lisp/ros/iq_vision/msg/iq_vision-msg.asd
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/gennodejs/ros/iq_vision/_index.js /home/asm01/inter_iit_task/devel/share/gennodejs/ros/iq_vision/_index.js
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/gennodejs/ros/iq_vision/msg/Coords.js /home/asm01/inter_iit_task/devel/share/gennodejs/ros/iq_vision/msg/Coords.js
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/gennodejs/ros/iq_vision/msg/_index.js /home/asm01/inter_iit_task/devel/share/gennodejs/ros/iq_vision/msg/_index.js
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/iq_vision/cmake/iq_visionConfig-version.cmake /home/asm01/inter_iit_task/devel/share/iq_vision/cmake/iq_visionConfig-version.cmake
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/iq_vision/cmake/iq_vision-msg-extras.cmake /home/asm01/inter_iit_task/devel/share/iq_vision/cmake/iq_vision-msg-extras.cmake
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/iq_vision/cmake/iq_vision-msg-paths.cmake /home/asm01/inter_iit_task/devel/share/iq_vision/cmake/iq_vision-msg-paths.cmake
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/iq_vision/cmake/iq_visionConfig.cmake /home/asm01/inter_iit_task/devel/share/iq_vision/cmake/iq_visionConfig.cmake
+/home/asm01/inter_iit_task/devel/.private/iq_vision/lib/python3/dist-packages/iq_vision/__init__.py /home/asm01/inter_iit_task/devel/lib/python3/dist-packages/iq_vision/__init__.py
+/home/asm01/inter_iit_task/devel/.private/iq_vision/lib/python3/dist-packages/iq_vision/msg/__init__.py /home/asm01/inter_iit_task/devel/lib/python3/dist-packages/iq_vision/msg/__init__.py
+/home/asm01/inter_iit_task/devel/.private/iq_vision/lib/python3/dist-packages/iq_vision/msg/_Coords.py /home/asm01/inter_iit_task/devel/lib/python3/dist-packages/iq_vision/msg/_Coords.py
+/home/asm01/inter_iit_task/devel/.private/iq_vision/lib/pkgconfig/iq_vision.pc /home/asm01/inter_iit_task/devel/lib/pkgconfig/iq_vision.pc
+/home/asm01/inter_iit_task/devel/.private/iq_vision/lib/iq_vision/aruco_marker_detector /home/asm01/inter_iit_task/devel/lib/iq_vision/aruco_marker_detector
+/home/asm01/inter_iit_task/devel/.private/iq_vision/lib/iq_vision/canny_edge_sol /home/asm01/inter_iit_task/devel/lib/iq_vision/canny_edge_sol
+/home/asm01/inter_iit_task/devel/.private/iq_vision/include/iq_vision/Coords.h /home/asm01/inter_iit_task/devel/include/iq_vision/Coords.h

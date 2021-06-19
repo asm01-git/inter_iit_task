@@ -1,0 +1,1 @@
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/common-lisp/ros/iq_vision/msg/_package.lisp

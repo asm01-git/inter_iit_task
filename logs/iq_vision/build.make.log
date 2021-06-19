@@ -1,0 +1,39 @@
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target canny_edge_sol[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target _iq_vision_generate_messages_check_deps_Coords[0m
+[35m[1mScanning dependencies of target aruco_marker_detector[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target std_msgs_generate_messages_lisp
+[  0%] Built target std_msgs_generate_messages_eus
+[  9%] [32mBuilding CXX object CMakeFiles/aruco_marker_detector.dir/src/aruco_marker_detector.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/canny_edge_sol.dir/src/canny_edge_sol.cpp.o[0m
+[ 18%] Built target _iq_vision_generate_messages_check_deps_Coords
+[35m[1mScanning dependencies of target iq_vision_generate_messages_py[0m
+[35m[1mScanning dependencies of target iq_vision_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target iq_vision_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target iq_vision_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target iq_vision_generate_messages_eus[0m
+[ 27%] [34m[1mGenerating Python from MSG iq_vision/Coords[0m
+[ 36%] [34m[1mGenerating Lisp code from iq_vision/Coords.msg[0m
+[ 45%] [34m[1mGenerating EusLisp code from iq_vision/Coords.msg[0m
+[ 54%] [34m[1mGenerating C++ code from iq_vision/Coords.msg[0m
+[ 63%] [34m[1mGenerating EusLisp manifest code for iq_vision[0m
+[ 72%] [34m[1mGenerating Javascript code from iq_vision/Coords.msg[0m
+[ 72%] Built target iq_vision_generate_messages_nodejs
+[ 72%] Built target iq_vision_generate_messages_lisp
+[ 72%] Built target iq_vision_generate_messages_cpp
+[ 81%] [34m[1mGenerating Python msg __init__.py for iq_vision[0m
+[ 81%] Built target iq_vision_generate_messages_py
+[ 81%] Built target iq_vision_generate_messages_eus
+[35m[1mScanning dependencies of target iq_vision_generate_messages[0m
+[ 81%] Built target iq_vision_generate_messages
+[ 90%] [32m[1mLinking CXX executable /home/asm01/inter_iit_task/devel/.private/iq_vision/lib/iq_vision/canny_edge_sol[0m
+[100%] [32m[1mLinking CXX executable /home/asm01/inter_iit_task/devel/.private/iq_vision/lib/iq_vision/aruco_marker_detector[0m
+[100%] Built target canny_edge_sol
+[100%] Built target aruco_marker_detector

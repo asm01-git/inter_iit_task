@@ -1,0 +1,1 @@
+/home/asm01/inter_iit_task/devel/./cmake.lock 1

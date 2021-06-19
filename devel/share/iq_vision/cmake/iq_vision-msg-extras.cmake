@@ -1,0 +1,1 @@
+/home/asm01/inter_iit_task/devel/.private/iq_vision/share/iq_vision/cmake/iq_vision-msg-extras.cmake

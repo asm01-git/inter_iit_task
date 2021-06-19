@@ -1,0 +1,6 @@
+devel_space: /home/asm01/inter_iit_task/devel
+install: false
+install_space: /home/asm01/inter_iit_task/install
+profile: default
+source_space: /home/asm01/inter_iit_task/src
+workspace: /home/asm01/inter_iit_task
